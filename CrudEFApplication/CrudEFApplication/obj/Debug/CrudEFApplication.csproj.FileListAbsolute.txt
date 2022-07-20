@@ -1,0 +1,16 @@
+C:\Users\JODIE\Desktop\Projects\WindowsForm\CrudEFApplication\CrudEFApplication\bin\Debug\CrudEFApplication.exe.config
+C:\Users\JODIE\Desktop\Projects\WindowsForm\CrudEFApplication\CrudEFApplication\bin\Debug\CrudEFApplication.exe
+C:\Users\JODIE\Desktop\Projects\WindowsForm\CrudEFApplication\CrudEFApplication\bin\Debug\CrudEFApplication.pdb
+C:\Users\JODIE\Desktop\Projects\WindowsForm\CrudEFApplication\CrudEFApplication\bin\Debug\EntityFramework.dll
+C:\Users\JODIE\Desktop\Projects\WindowsForm\CrudEFApplication\CrudEFApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JODIE\Desktop\Projects\WindowsForm\CrudEFApplication\CrudEFApplication\bin\Debug\EntityFramework.xml
+C:\Users\JODIE\Desktop\Projects\WindowsForm\CrudEFApplication\CrudEFApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JODIE\Desktop\Projects\WindowsForm\CrudEFApplication\CrudEFApplication\obj\Debug\CrudEFApplication.csproj.AssemblyReference.cache
+C:\Users\JODIE\Desktop\Projects\WindowsForm\CrudEFApplication\CrudEFApplication\obj\Debug\CrudEFApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\JODIE\Desktop\Projects\WindowsForm\CrudEFApplication\CrudEFApplication\obj\Debug\CrudEFApplication.Form1.resources
+C:\Users\JODIE\Desktop\Projects\WindowsForm\CrudEFApplication\CrudEFApplication\obj\Debug\CrudEFApplication.Properties.Resources.resources
+C:\Users\JODIE\Desktop\Projects\WindowsForm\CrudEFApplication\CrudEFApplication\obj\Debug\CrudEFApplication.csproj.GenerateResource.cache
+C:\Users\JODIE\Desktop\Projects\WindowsForm\CrudEFApplication\CrudEFApplication\obj\Debug\CrudEFApplication.csproj.CoreCompileInputs.cache
+C:\Users\JODIE\Desktop\Projects\WindowsForm\CrudEFApplication\CrudEFApplication\obj\Debug\CrudEFApplication.csproj.CopyComplete
+C:\Users\JODIE\Desktop\Projects\WindowsForm\CrudEFApplication\CrudEFApplication\obj\Debug\CrudEFApplication.exe
+C:\Users\JODIE\Desktop\Projects\WindowsForm\CrudEFApplication\CrudEFApplication\obj\Debug\CrudEFApplication.pdb

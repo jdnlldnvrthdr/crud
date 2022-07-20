@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudEFApplication", "CrudEFApplication\CrudEFApplication.csproj", "{7CC7E79C-844F-43CE-9E16-48080208C124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CC7E79C-844F-43CE-9E16-48080208C124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC7E79C-844F-43CE-9E16-48080208C124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC7E79C-844F-43CE-9E16-48080208C124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC7E79C-844F-43CE-9E16-48080208C124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE550A65-F21C-45FD-8B95-AC9AAA1B6F1F}
+	EndGlobalSection
+EndGlobal
